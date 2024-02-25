@@ -11,7 +11,7 @@ sections:
         Coastal Conservation GeoLab
         Research Group
       image:
-        filename: welcome.jpg
+        filename: welcome.png
       text: |
         <br>
         
