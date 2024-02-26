@@ -16,9 +16,6 @@ superuser: false
 # Role/position
 role: Lecturer in Malacology
 
-# Role/position
-role: Lecturer in Remote Sensing and GIS for Conservation
-
 # Organizations/Affiliations
 organizations:
   - name: TecNM Campus Bahía de Banderas
