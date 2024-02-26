@@ -1,41 +1,41 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Julio
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Julio
+last_name: Pastor-Guzman
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Remote Sensing and GIS for Conservation
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: TecNM Campus Bahía de Banderas
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include validation of vegetation biophysical products, vegetation phenology, and Earth Observation for food security.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Vegetation biophysical products
+  - Environmental, ecology and commercial applications
+  - Food security
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Geogrphy and Environment
+      institution: University of Southampton
+      year: 2019
+    - course: MSc in Sustainability
+      institution: Universidad de Guadalajara
+      year: 2010
+    - course: BSc in Marine Biology
+      institution: TecNM Campus Bahía de Banderas
+      year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -72,6 +72,5 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Julio is lecturer in Remote Sensing and  Geographic Information Systems for Conservation. His research interests focus on the validation of biophysical products from the Copernicus Programme, vegetation phenology and its relation to climate, vegetation productivity and species distribution. Julio also has special interest in the use of Earth Observation products and GIS for ecological, environmental, commercial, innovative applications as well as for food security. Julio has a PhD in Geography and Environment from the University of Southampton, UK.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
