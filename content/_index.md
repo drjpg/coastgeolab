@@ -44,7 +44,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: resultados.jpg
+          filename: resultados.png
           filters:
             brightness: 1
           parallax: false
