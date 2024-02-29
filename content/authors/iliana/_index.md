@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Adrian
+title: Iliana
 
 # Full name (for SEO)
-first_name: Adrian
-last_name: Maldonado-Gasca
+first_name: Iliana
+last_name: Fonseca-Ponce
 
 # Username (this should match the folder name)
 authors:
-  - Adrian
+  - Iliana
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Lecturer in Ecology
+role: Lecturer in Plankton
 
 # Organizations/Affiliations
 organizations:
@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include validation of vegetation biophysical products, vegetation phenology, and Earth Observation for food security.
+bio: Iliana began her participation in the project in 2014, as an undergraduate student. Her interest in oceanic mantas and their use of habitat in the bay led her to pursue a master's degree in which she explored the relationship between the presence of mantas and variation in zooplankton composition and abundance, using techniques such as stable isotope analysis. As project leader, Iliana aims to learn more about the habitat use of mantas and use this knowledge in the development of regulations for their protection that are supported by the people of the bay.
 
 interests:
   - Vegetation biophysical products
@@ -76,4 +76,4 @@ user_groups:
   - Researchers
 ---
 
-Julio is lecturer in Remote Sensing and  Geographic Information Systems for Conservation. His research interests focus on the validation of biophysical products from the Copernicus Programme, vegetation phenology and its relation to climate, vegetation productivity and species distribution. Julio also has special interest in the use of Earth Observation products and GIS for ecological, environmental, commercial, innovative applications as well as for food security. Julio has a PhD in Geography and Environment from the University of Southampton, UK.
+Iliana began her participation in the project in 2014, as an undergraduate student. Her interest in oceanic mantas and their use of habitat in the bay led her to pursue a master's degree in which she explored the relationship between the presence of mantas and variation in zooplankton composition and abundance, using techniques such as stable isotope analysis. As project leader, Iliana aims to learn more about the habitat use of mantas and use this knowledge in the development of regulations for their protection that are supported by the people of the bay.

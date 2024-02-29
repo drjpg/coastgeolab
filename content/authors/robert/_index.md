@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Adrian
+title: Roberto
 
 # Full name (for SEO)
-first_name: Adrian
-last_name: Maldonado-Gasca
+first_name: Roberto
+last_name: Moncada-Cooley
 
 # Username (this should match the folder name)
 authors:
-  - Adrian
+  - Roberto
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Lecturer in Ecology
+role: Lecturer in Chordata
 
 # Organizations/Affiliations
 organizations:
@@ -22,21 +22,21 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Marine biologist with a Master of Science in Marine Ecology and PhD studies in Ecology. My research interests include aspects of ecology and conservation of protected species (turtles, crocodiles, fish, birds and mammals) and priority coastal ecosystems (coral reefs, mangrove forests and estuaries).
+bio: Roberto is a Marine Biologist interested in marine mammals, particularly humpback whales. His research focuses on the interaction between Megaptera novaeangliae and ecotourism in order to develop appropriate regulations for the sustainability of whale watching. Roberto is lecturer in Chordata, Evolutionary Biology and Pelagic Habitat.
 
 interests:
-  - Ecology and conservation of marine protected species
-  - Conservation of protected areas
-  - Coral reefs, mangroves
+  - Marine mammals
+  - Conservation of humpback whale
+  - Ecotourism
 
 education:
   courses:
-    - course: PhD Candidate in Ecology
-      institution: University of Barcelona
-      year: 2002
-    - course: MSc in Marine Sciences
-      institution: CINVESTAV-IPN
-      year: 1998
+#    - course: PhD Candidate in Ecology
+#      institution: University of Barcelona
+#      year: 2002
+#    - course: MSc in Marine Sciences
+#      institution: CINVESTAV-IPN
+#      year: 1998
     - course: BSc in Marine Biology
       institution: Autonmous University of Baja California Sur
       year: 1995
@@ -76,4 +76,4 @@ user_groups:
   - Researchers
 ---
 
-Marine biologist with a Master of Science in Marine Ecology and PhD studies in Ecology. My research interests include aspects of ecology and conservation of protected species (turtles, crocodiles, fish, birds and mammals) and priority coastal ecosystems (coral reefs, mangrove forests and estuaries).
+Roberto is a Marine Biologist interested in marine mammals, particularly humpback whales. His research focuses on the interaction between Megaptera novaeangliae and ecotourism in order to develop appropriate regulations for the sustainability of whale watching. Roberto is lecturer in Chordata, Evolutionary Biology and Pelagic Habitat.

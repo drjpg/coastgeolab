@@ -22,24 +22,24 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include validation of vegetation biophysical products, vegetation phenology, and Earth Observation for food security.
+bio: I am a marine biologist with a special interest in studying marine flora and fauna. My work focuses on quantitative ecology, spatial analysis, and conservation of marine benthos. I hold a Ph.D. from the Centro de Investigaciones Biológicas (CIB), and my research involves comparing the ecological diversity and species composition of macroalgae, benthic macroinvertebrates, and fish assemblages between two tropical rocky reefs.
 
 interests:
-  - Vegetation biophysical products
-  - Environmental, ecology and commercial applications
-  - Food security
+  - Marine benthos flora and fauna
+  - Ficology
+  - Rocky reefs
 
 education:
   courses:
-    - course: PhD in Geogrphy and Environment
-      institution: University of Southampton
-      year: 2019
-    - course: MSc in Sustainability
-      institution: Universidad de Guadalajara
-      year: 2010
+    - course: PhD in Use Management and Conservation of Natural Resources
+      institution: Centre for Biological Research (CIB)
+      year: 2014
+    - course: MSc in Coastal Oceanography
+      institution: Autonmous University of Baja California
+      year: 2000
     - course: BSc in Marine Biology
-      institution: TecNM Campus Bahía de Banderas
-      year: 2006
+      institution: Autonmous University of Baja California Sur
+      year: 1999
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -76,4 +76,4 @@ user_groups:
   - Researchers
 ---
 
-Julio is lecturer in Remote Sensing and  Geographic Information Systems for Conservation. His research interests focus on the validation of biophysical products from the Copernicus Programme, vegetation phenology and its relation to climate, vegetation productivity and species distribution. Julio also has special interest in the use of Earth Observation products and GIS for ecological, environmental, commercial, innovative applications as well as for food security. Julio has a PhD in Geography and Environment from the University of Southampton, UK.
+I am a marine biologist with a special interest in studying marine flora and fauna. My work focuses on quantitative ecology, spatial analysis, and conservation of marine benthos. I hold a Ph.D. from the Centro de Investigaciones Biológicas (CIB), and my research involves comparing the ecological diversity and species composition of macroalgae, benthic macroinvertebrates, and fish assemblages between two tropical rocky reefs.
