@@ -12,11 +12,11 @@ sections:
 
       image:
         filename: welcome.png
+        size: cover
           filters:
             brightness: 1
           parallax: false
           position: center
-          size: cover
           text_color_light: true
       text: |
         <br>
