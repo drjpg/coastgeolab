@@ -13,11 +13,11 @@ sections:
       image:
         filename: welcome.png
         size: cover
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          text_color_light: true
+      #    filters:
+      #      brightness: 1
+      #    parallax: false
+      #    position: center
+      #    text_color_light: true
       text: |
         <br>
         The Coastal Conservation GeoLab is part of the TecNM Bahía de Banderas Campus, Mexico. The lab tackles the study of population dynamics, movement, foraging, health status, biological and environmental variables monitoring. To address these challenges our team uses close range and satellite remote sensing such as acoustic, GPS trackers and drones; Geographic Information Systems tools, statistical methods and big data. To ensure the initiatives adopted by locals, our team involves the communities, managers and stakeholders.
