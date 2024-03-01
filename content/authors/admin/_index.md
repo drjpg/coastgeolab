@@ -7,7 +7,7 @@ first_name: Julio
 last_name: Pastor-Guzman
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Lecturer in Remote Sensing and GIS for Conservation
@@ -45,15 +45,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=aB386h8AAAAJ&hl=es
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+#  - icon: github
+#    icon_pack: fab
+#    link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
